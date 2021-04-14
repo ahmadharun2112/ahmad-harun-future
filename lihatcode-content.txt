@@ -1,5 +1,7 @@
 rencanan kontent lihatcode
 membuat artikel tentang text editor
 * macam-macam text editor
+  * sublime
+  * visual studio code
 membuat artike tentang bahasa pemrogramman
 membuat tutorial tentang back-end developer
