@@ -4,4 +4,6 @@ membuat artikel tentang text editor
   * sublime
   * visual studio code
 membuat artike tentang bahasa pemrogramman
-membuat tutorial tentang back-end developer
+* php
+* python
+* Java
