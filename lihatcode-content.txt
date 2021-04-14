@@ -2,4 +2,6 @@ rencanan kontent lihatcode
 membuat artikel tentang text editor
 * macam-macam text editor
 membuat artike tentang bahasa pemrogramman
-membuat tutorial tentang back-end developer
+* php
+* python
+* Java
